@@ -1,5 +1,5 @@
 WADS Project-1: Portfolio using Git Branches
 
-Name: Registan
+Name: <u>Registan</u>
 
 Student NIM: 2702364963
