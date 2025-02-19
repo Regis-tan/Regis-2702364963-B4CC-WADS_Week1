@@ -1,5 +1,5 @@
 WADS Lab Project-1: Portfolio
 
-Name: Registan
+Name: <u>Registan</u>
 
-NIM: 2702364963
+NIM: <u>2702364963</u>
