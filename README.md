@@ -1,7 +1,9 @@
 # WADS Lab Project-1: Portfolio
 
-**Name**: Registan
+**Name**: <u>Registan</u>
 
-**NIM**: 2702364963
+**NIM**: <u>2702364963</u>
 
-**Article**: *https://www.britannica.com/technology/Internet/Society-and-the-Internet*
+---
+
+**Article**: <u>*https://www.britannica.com/technology/Internet/Society-and-the-Internet*</u>
