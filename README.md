@@ -6,4 +6,4 @@
 
 ---
 
-**Article**: <u>*https://www.britannica.com/technology/Internet/Society-and-the-Internet*</u>
+**Article**: *https://www.britannica.com/technology/Internet/Society-and-the-Internet*
